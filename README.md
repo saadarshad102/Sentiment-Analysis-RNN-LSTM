@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Sentiment Analysis using Convolution Neural Networks(CNN) and Google News Word2Vec
+Sentiment Analysis using Recurrent Neural Networks (RNN-LSTM) and Google News Word2Vec
 
 ## Installing
 * Clone the repository
