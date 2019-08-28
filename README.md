@@ -8,7 +8,7 @@ Sentiment Analysis using Recurrent Neural Networks (RNN-LSTM) and Google News Wo
 git clone https://github.com/saadarshad102/Sentiment-Analysis-RNN-LSTM.git
 ```
 
-* Open Sentiment-Analysis folder
+* Open Sentiment-Analysis-RNN-LSTM folder
 
 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 
